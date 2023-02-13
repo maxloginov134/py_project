@@ -4,6 +4,7 @@ def sum_numbers():
     return a + b
 
 
-sum_numbers()
-
-print(sum_numbers())
+def diff_num():
+    a = 234
+    b = 23
+    return a - b
